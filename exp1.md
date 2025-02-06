@@ -52,8 +52,8 @@ c
   exit
   Exit from a process. If shell is the only process then logs out
 
-![screenshot](1a.1.png)
-![screenshot](1a.2.png)
+![screenshot](1a.1.jpg)
+![screenshot](1a.2.jpg)
 
 > ## DIRECTORY COMMANDS
 
@@ -133,7 +133,7 @@ chmod 740 file
 sets all rights for user, read only for groups and no rights for others
 
 
-![screenshot](1a.3.png)
+![screenshot](1a.3.jpg)
 
 > ## RESULT
 Thus the study and execution of Unix commands has been completed successfully.
@@ -172,8 +172,8 @@ return EXIT_SUCCESS;
 }
 
 
-![screenshot](1b.1.png)
-![screenshot](1b.2.png)
+![screenshot](1b.1.jpg)
+![screenshot](1b.2.jpg)
 
 > ## Simulation code for ls command
 
@@ -202,7 +202,7 @@ return 0;
 }
 
 
-![screenshot](1b.3.png)
+![screenshot](1b.3.jpg)
 
 > ## Simulate Grep command
 
@@ -233,5 +233,5 @@ return EXIT_SUCCESS;
 }
 
 
-![screenshot](1b.4.png)
-![screenshot](1b.5.png)
+![screenshot](1b4.jpg)
+![screenshot](1b5.jpg)
